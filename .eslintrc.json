@@ -1,0 +1,6 @@
+{
+  "extends": "standard",
+  "rules": {
+    "accessor-pairs": "warn"
+  }
+}

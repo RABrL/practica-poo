@@ -1,0 +1,17 @@
+{
+  "name": "practica-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abstraccion.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "node": "^19.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
